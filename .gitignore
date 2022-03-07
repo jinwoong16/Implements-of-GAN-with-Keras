@@ -2,3 +2,4 @@ dummy
 images
 *.png
 example.ipynb
+.DS_Store
